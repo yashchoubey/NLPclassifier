@@ -1,1 +1,1 @@
-# NLP based classifier
+# NLP classifier
